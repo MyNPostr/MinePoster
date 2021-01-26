@@ -1,2 +1,1 @@
-# MinePoster
-Discord bot on python
+Mineposter - Это простой Дискорд бот на языке Python.
