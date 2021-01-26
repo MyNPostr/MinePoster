@@ -115,4 +115,4 @@ async def info(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run('Nzc2NDQ0NDAwNjgzMTg4MjM0.X60-Mg.H97yPHaczWajGgFPUEz3cGM3oqc')
+bot.run('Ваш токен')
