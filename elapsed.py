@@ -366,4 +366,4 @@ async def leaders(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run('ODM1NTIxNzI4NDgxODUzNDQw.YIQqPw.6f0pj1K4F4NRsLZR2_r4X9teLPI')
+bot.run('токен бота')
